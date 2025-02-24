@@ -1,10 +1,11 @@
-#HR_Analytics_Dashboard
-POWER BI
+# HR_Analytics_Dashboard
 
-HR Analytics Dashboard
-![Image](https://github.com/user-attachments/assets/8c0a3993-8bc6-4bac-b9d7-4e771f9af4d7)
-Summary:
-The HR Analytics Dashboard provides a comprehensive overview of employee demographics and retention metrics for an organization with a total workforce of 1,470 employees. Key insights include:
+The HR Analytics Dashboard provides a comprehensive overview of employee demographics and retention metrics for an organization with a total workforce of 1,470 employees.
+
+![Image](https://github.com/user-attachments/assets/074f9860-2598-49dd-811f-522066bf4a31)
+
+Key insights include:
+
 Employee Distribution: The organization has an attribution rate of 16.1%, with 237 attributed employees.
 Gender Ratio: The workforce consists of 140 males and 79 females.
 Education Background: The largest educational category is Life Sciences (38%), followed by Medical (27%), Marketing (15%), Technical Degrees (14%), and Other (5%).
